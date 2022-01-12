@@ -1,6 +1,6 @@
 # Cypress.io Automation Framework
 
-This repository is all about creating, running and verifying automated UI tests on HiredScore UI products <br>
+This repository is all about creating, running and verifying automated UI tests on UI products <br>
 using a cutting edge automation tool.
 
 ### Tech
